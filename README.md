@@ -12,3 +12,5 @@ w1d3
 
 
 w1d4
+- tuples
+- lists
