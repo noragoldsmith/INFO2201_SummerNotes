@@ -23,6 +23,9 @@ w2d1
 - nested loops
 - strings
 - dictionaries
+  - counting characters using .get()
+      - for letter in word:
+          dictionary[letter] = dictionary.get(letter, 0) + 1
 
 w2d2
 - functions
