@@ -15,3 +15,8 @@ w1d4
 - tuples
 - lists
 - dictionaries
+
+
+w2d1
+- While loops
+- For loops
