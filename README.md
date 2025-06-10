@@ -23,3 +23,6 @@ w2d1
 - nested loops
 - strings
 - dictionaries
+
+w2d2
+- functions
