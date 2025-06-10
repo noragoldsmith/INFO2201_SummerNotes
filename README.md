@@ -20,3 +20,6 @@ w1d4
 w2d1
 - While loops
 - For loops
+- nested loops
+- strings
+- dictionaries
