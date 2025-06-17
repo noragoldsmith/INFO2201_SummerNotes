@@ -42,3 +42,7 @@ w2d3
 w3d1
 - Reading and downloading files
 - Introduction to regular expressions
+
+w3d2
+- csv files
+- json files
