@@ -38,3 +38,7 @@ w2d2
 
 w2d3
 - classes
+
+w3d1
+- Reading and downloading files
+- Introduction to regular expressions
