@@ -47,7 +47,16 @@ w3d2
 - csv files
 - json files
 
-
+w4d1
+- numpy
 
 w4d2
 - APIs
+
+w4d3
+- XML
+- HTML
+- Soup
+
+w5d1
+- Pandas
