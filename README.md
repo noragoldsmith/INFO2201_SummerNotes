@@ -60,3 +60,9 @@ w4d3
 
 w5d1
 - Pandas
+
+w5d3
+- wrangling data + web scraping
+- pickle
+- static web pages
+- pandas read html
