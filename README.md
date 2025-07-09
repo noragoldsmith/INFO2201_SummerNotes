@@ -66,3 +66,13 @@ w5d3
 - pickle
 - static web pages
 - pandas read html
+
+w6d1 + w6d2
+- EDA
+  - Data Collection
+  - Data Cleaning
+  - Univariate Analysis
+  - Bivariate Analysis
+  - Multivariate Analysis
+  - Time Series Data
+  - Dealing with Outliers and Missing Values
